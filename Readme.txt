@@ -1,0 +1,1 @@
+Use latest verison of Visual Studio Code to run smoothly.
